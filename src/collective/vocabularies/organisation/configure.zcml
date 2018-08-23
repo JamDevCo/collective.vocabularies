@@ -7,8 +7,8 @@
     
   <five:registerPackage package="."/>
 
-  <genericsetup:registerProfile
-      name="default"
+    <genericsetup:registerProfile
+      name="organisation"
       title="Organisation Vocabularies"
       directory="../profiles/organisation"
       description="Vocabularies for businesses, companies and other organisations."

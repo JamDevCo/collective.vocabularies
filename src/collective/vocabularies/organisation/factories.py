@@ -16,7 +16,7 @@ def organisation_type_factory(context):
 
 @provider(IVocabularyFactory)
 def organisation_sizes_factory(context):
-    return SimpleVocabulary.fromValues(
+    return SimpleVocabulary(
         [ SimpleTerm(value=pair[0], token=pair[0], title=pair[1]) for pair in vocab.organisation_sizes ]
     )
 
