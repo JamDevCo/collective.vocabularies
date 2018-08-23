@@ -2,8 +2,9 @@ Changelog
 =========
 
 
-1.0a1 (unreleased)
+1.0.0 (unreleased)
 ------------------
 
+- Added vocabularies for organisation size, industry and type.
 - Initial release.
-  [b4oshany]
+  @b4oshany
