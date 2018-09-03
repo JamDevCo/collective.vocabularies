@@ -6,34 +6,21 @@
 collective.vocabularies
 ==============================================================================
 
-Tell me what your product does
+Adds additional vocabularies to your plone site.
 
-Features
---------
+Vocabularies
+--------------
 
-- Can be bullet points
-
-
-Examples
---------
-
-This add-on can be seen in action at the following sites:
-- Is there a page on the internet where everybody can see the features?
+- collective.vocabularies.countries
+- collective.vocabularies.organisation.types
+- collective.vocabularies.organisation.industries
+- collective.vocabularies.organisation.sizes
 
 
-Documentation
--------------
+Meta Features
+--------------
 
-Full documentation for end users can be found in the "docs" folder, and is also available online at http://docs.plone.org/foo/bar
-
-
-Translations
-------------
-
-This product has been translated into
-
-- Klingon (thanks, K'Plai)
-
+- collective.vocabularies.organisation
 
 Installation
 ------------

@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.0.0 (unreleased)
+1.0.0
 ------------------
 
 - Added vocabularies for organisation size, industry and type.

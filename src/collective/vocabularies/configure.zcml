@@ -35,4 +35,9 @@
       factory=".setuphandlers.HiddenProfiles"
       name="collective.vocabularies-hiddenprofiles" />
 
+  <utility
+      component=".vocab.country_factory"
+      name="collective.vocabularies.countries"
+      />
+
 </configure>
