@@ -6,7 +6,7 @@
 collective.vocabularies
 ==============================================================================
 
-Adds additional vocabularies to your plone site.
+Adds additional vocabularies to your Plone site.
 
 Vocabularies
 --------------
@@ -43,14 +43,6 @@ Contribute
 
 - Issue Tracker: https://github.com/collective/collective.vocabularies/issues
 - Source Code: https://github.com/collective/collective.vocabularies
-- Documentation: https://docs.plone.org/foo/bar
-
-
-Support
--------
-
-If you are having issues, please let us know.
-We have a mailing list located at: project@example.com
 
 
 License
