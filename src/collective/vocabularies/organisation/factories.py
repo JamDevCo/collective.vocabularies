@@ -7,6 +7,7 @@ from zope.interface import provider
 from plone.app.vocabularies.catalog import KeywordsVocabulary
 
 from . import vocab
+from collective.vocabularies.utils import vocab_query
 
 
 @provider(IVocabularyFactory)
@@ -22,5 +23,5 @@ def organisation_sizes_factory(context):
 
 
 @provider(IVocabularyFactory)
-def industry_factory(context):
-    return SimpleVocabulary.fromValues(vocab.industries)
+def industry_factory(context, query=None):
+    return vocab_query(vocab.industries, query)
