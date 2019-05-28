@@ -14,7 +14,7 @@ long_description = '\n\n'.join([
 
 setup(
     name='collective.vocabularies',
-    version='1.0.4',
+    version='1.0.5',
     description="Add additional vocabularies to plone based on the given vocabulary categories.",
     long_description=long_description,
     # Get more from https://pypi.python.org/pypi?%3Aaction=list_classifiers
